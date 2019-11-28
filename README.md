@@ -2,12 +2,12 @@
 Scraper - DisProt
 
 # Steps
-1 - Install python-3 ( Preferably version - 3.6.7)
-2 - Run " pip install -r requirements.txt "
-3 - Then " python homosap.py " [From inside the directory]
-4 - The excel file will be generated.
-
-
+1 - Install python-3 ( Preferably version - 3.6.7) <br/>
+2 - Run " pip install -r requirements.txt " <br/>
+3 - Then " python homosap.py " [From inside the directory] <br/>
+4 - The excel file will be generated. <br/>
+<br/>
+<br/>
 # If you wish to modify some functionalities
 
 - Line 54 in homosap.py contains the percentage for segregation
